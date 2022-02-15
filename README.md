@@ -1,1 +1,1 @@
-# CleanCode_L2.TypeBarancesAndLoops
+# CleanCode_L2.TypeBaranchesAndLoops
